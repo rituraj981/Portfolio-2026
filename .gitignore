@@ -23,6 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# some basic folders 
-/assets/
-/public/
