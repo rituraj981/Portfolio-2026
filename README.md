@@ -57,11 +57,11 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 5. Open your browser: Navigate to http://localhost:5173 to view the site.
 
 👨‍💻 Author
-Rituraj Pandey
-Role: Web Developer
-Email: riturajpandey981@gmail.com
-GitHub: @rituraj981
-LinkedIn: https://www.linkedin.com/in/riturajpandey07/
+- Rituraj Pandey
+- Role: Web Developer
+- Email: riturajpandey981@gmail.com
+- GitHub: @rituraj981
+- LinkedIn: https://www.linkedin.com/in/riturajpandey07/
 
 "Fast-shipping Developer obsessed with building clean, high-performance UIs."
 
