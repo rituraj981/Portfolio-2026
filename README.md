@@ -56,19 +56,6 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 5. Open your browser: Navigate to http://localhost:5173 to view the site.
 
-📂 Folder Structure
-├── public/              # Static assets (Favicon, Resume PDF)
-├── src/
-│   ├── assets/          # Processed images for projects & UI
-│   ├── components/      # Reusable React components (Navbar, Hero, About, etc.)
-│   ├── data/            # Centralized data files (projects.js, experience.js)
-│   ├── App.jsx          # Main application layout
-│   ├── main.jsx         # React entry point
-│   └── index.css        # Global CSS and Tailwind v4 configurations
-├── index.html           # HTML template
-├── package.json         # Project metadata and dependencies
-└── vite.config.js       # Vite configuration
-
 👨‍💻 Author
 Rituraj Pandey
 Role: Web Developer
